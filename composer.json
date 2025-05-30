@@ -1,6 +1,7 @@
 {
     "name": "labuschagneb/south-african-wheelchairs",
     "description": "A South African Wheelchairs project.",
+	"license": "proprietary",
     "type": "project",
     "require": {
         "php": ">=8.0"
