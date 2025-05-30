@@ -1,62 +1,31 @@
-# Project Title
+# South African Wheelchairs
 
-Simple overview of use/purpose.
+Empowering individuals with mobility needs to live independently through our range of innovative products. (wheelchairs, scooters, walkers, bathroom aids and much more.)
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+At South African Wheelchairs, we're dedicated to enhancing the lives of individuals with mobility impairments. Our mission is to provide high-quality, affordable wheelchairs that empower users to live independently, confidently, and without limits.
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Download Files. Open index.html on your preferred browser.
+* VS Code with [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Download VS Code
+* Install VS Code extension [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* Open up index.html and click on the LiveServer button
 
 ## Authors
 
-Contributors names and contact info
+Contributors
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* [@LabuschagneB](https://github.com/LabuschagneB)
 
-## Version History
+## Frameworks
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Inspiration.
+* [Bootstrap](https://getbootstrap.com)
+* [PHP](https://www.php.net)
+* [StatCounter](https://statcounter.com)
