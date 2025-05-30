@@ -1,0 +1,8 @@
+{
+    "name": "labuschagneb/south-african-wheelchairs",
+    "description": "A South African Wheelchairs project.",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    }
+}
